@@ -7,6 +7,6 @@ C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaci
 C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.exe
 C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.pdb
-C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.Menu.resources
 C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.Operaciones.resources
+C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.FrmMenu.resources
 C:\Users\user\Desktop\Documents\visual todos los proyectos\LaboratorioProgramaciónUno\LaboratorioProgramaciónUno\obj\Debug\LaboratorioProgramaciónUno.Loguin.resources
