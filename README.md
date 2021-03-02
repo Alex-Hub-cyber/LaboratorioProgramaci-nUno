@@ -1,2 +1,0 @@
-# LaboratorioProgramaci-nUno
-PrimerLaboratorio.
